@@ -1,7 +1,7 @@
 {
-    "name": "minimal-express-app",
+    "name": "notes-backend",
     "version": "1.0.0",
-    "description": "Minimal Express app with scalable structure",
+    "description": "Express.js backend for personal notes CRUD with environment-based config",
     "main": "src/server.js",
     "scripts": {
         "start": "node src/server.js",
